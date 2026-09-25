@@ -1,0 +1,14 @@
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\bin\Debug\net10.0\SE1.exe
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\bin\Debug\net10.0\SE1.deps.json
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\bin\Debug\net10.0\SE1.runtimeconfig.json
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\bin\Debug\net10.0\SE1.dll
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\bin\Debug\net10.0\SE1.pdb
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.AssemblyInfoInputs.cache
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.AssemblyInfo.cs
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.csproj.CoreCompileInputs.cache
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.dll
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\refint\SE1.dll
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.pdb
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\SE1.genruntimeconfig.cache
+C:\Users\joseS\OneDrive\Desktop\CSharp\SE1\obj\Debug\net10.0\ref\SE1.dll
